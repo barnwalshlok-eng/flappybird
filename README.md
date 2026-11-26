@@ -10,4 +10,4 @@ A Flappy Bird game you can play in your browser.
 - Each pipe you pass gives you 1 point, and the game gets faster as you go.
 
 ## Made by
-Your Name
+Shlok Barnwal
